@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+data/
+results/model.joblib
+results/split_indices.csv
+results/ckpt/
+results/transformer_model/
+.env
